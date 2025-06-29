@@ -199,6 +199,6 @@ npm run preview
 
 **Built with ❤️ by Shubhang Shrivastav**
 
-[Demo](https://drs-track-ai.netlify.app) • [Documentation](https://docs.drs-track-ai.com) • [API Reference](https://api.drs-track-ai.com)
+[Demo](https://lively-cascaron-040c53.netlify.app/) • [Documentation](https://docs.drs-track-ai.com) • [API Reference](https://api.drs-track-ai.com)
 
 </div>
